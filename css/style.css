@@ -9324,7 +9324,8 @@ textarea.form-control {
   overflow: hidden;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position:  center;
+	top: 10px;
   background-attachment: fixed;
   padding: 5em 0; }
   .testimony-section .overlay {
@@ -9366,7 +9367,7 @@ textarea.form-control {
       .testimony-section .owl-nav .owl-prev span:before,
       .testimony-section .owl-nav .owl-next span:before {
         font-size: 20px;
-        margin-top: 7px;
+        margin-top: 17px;
         color: #000000; }
     .testimony-section .owl-nav .owl-prev {
       top: 0 !important;
