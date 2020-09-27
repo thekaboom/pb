@@ -448,8 +448,10 @@ pre {
   overflow-y: scroll; }
 
 .carocon {
+	position: relative;
 	width: 350px;
 	align-self: center;
+	top: 70px;
 }
 
 .luci {
